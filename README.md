@@ -6,16 +6,18 @@
 # Virtual-element-method
 
 ## Overview
+The Virtual Elements Method (VEM) is an innovative numerical approach used to solve engineering and physics problems in fields such as fluid mechanics, solid mechanics, and electromagnetic problems. Developed to overcome the limitations of classical finite element methods, VEM enables the treatment of complex geometries and unstructured meshes without requiring a precise mesh.
 
-La Virtual Elements Method (VEM) est une approche numérique innovante utilisée pour résoudre des problèmes d'ingénierie et de physique dans des domaines tels que la mécanique des fluides, la mécanique des solides et les problèmes électromagnétiques. Développée pour surmonter les limitations des méthodes d'éléments finis classiques, la VEM permet de traiter des géométries complexes et des maillages non structurés sans nécessiter un maillage précis.
+### Key Features:
+* Geometric Flexibility: VEM is particularly effective for domains with irregular shapes and singularities, making it ideal for industrial applications.
 
-Principales caractéristiques :
-    - Flexibilité géométrique : La VEM est particulièrement efficace pour les domaines avec des formes irrégulières et des singularités, ce qui la rend idéale pour les applications industrielles.
-    - Utilisation d'éléments virtuels : Contrairement aux méthodes traditionnelles, la VEM repose sur des éléments virtuels qui ne nécessitent pas d'intégration numérique dans le domaine réel, mais plutôt dans un domaine de référence, simplifiant ainsi le calcul.
-    - Stabilité et précision : La méthode offre une meilleure stabilité numérique et une précision accrue, notamment pour les problèmes de grande déformation et de discontinuïté.
-    - Adaptabilité : La VEM s'adapte facilement à différents types de problèmes, y compris ceux avec des conditions aux limites complexes.
-    
-Cette méthode représente une avancée significative dans le domaine de l'analyse numérique, offrant aux ingénieurs et aux chercheurs un outil puissant pour modéliser des systèmes physiques de manière efficace.
+* Use of Virtual Elements: Unlike traditional methods, VEM relies on virtual elements that do not require numerical integration in the real domain but rather in a reference domain, thus simplifying calculations.
+
+* Stability and Precision: The method offers better numerical stability and increased accuracy, especially for large deformation and discontinuity problems.
+
+* Adaptability: VEM easily adapts to different types of problems, including those with complex boundary conditions.
+### Significance
+This method represents a significant advancement in the field of numerical analysis, providing engineers and researchers with a powerful tool to efficiently model physical systems.
 
 ## Table of Contents
 
